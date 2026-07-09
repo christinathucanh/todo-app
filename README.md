@@ -18,7 +18,10 @@ A simple command-line todo application written in Rust. This project demonstrate
 
 ## Running the Project
 
-1. Clone the repository.
+1. Clone the repository:
+  ```
+git clone https://github.com/christinathucanh/todo-app.git
+```
 2. Navigate to the project directory.
 3. Build and run the application:
 
